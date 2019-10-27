@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## Cómo triunfar en Tinder y no parecer un subnormal. 
+Paptti
+
+## Cómo triunfar en Tinder y no parecer un subnormal.
 
 La forma más sencilla y eficaz de conseguir más matches y conversaciones en Tinder
- 
+
 Hola,
 
-Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, tu éxito de ligar en Tinder. 
+Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, tu éxito de ligar en Tinder.
 
-Pero lo primero que debes saber de Cómo triunfar en Tinder es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder. 
+Pero lo primero que debes saber de Cómo triunfar en Tinder es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder.
 
 Y ayudamos a personas como tú que quieren tener citas en Tinder a incrementar sus posibilidades de tener éxito.
 
@@ -21,8 +23,8 @@ Vale.
 Como bien sabrás, llamar la atención de una chica en Tinder es difícil, y más, si no somos muy agraciados físicamente o si nos hacemos caquita en los pantalones a la hora de hablar con ellas, ya sea en persona o en un chat.
 
 Llamar la atención en Tinder y llevar la conversación a una cita presencial y  poder llegar a algo más íntimo. No es sencillo.
- 
-No te preocupesTranquilo , no eres el único. 
+
+No te preocupesTranquilo , no eres el único.
 
 Llamar la atención es necesario pero no suficiente. Es un primer paso y habrás ganado mucho.
 
@@ -36,7 +38,7 @@ Si crees que no sabes cómo escribir una descripción de tí, que llame la atenc
 
 A lo mejor esto te interesa.
 
-Como te hemos comentado somos expertos en psicología persuasiva (cómo llamar la atención y convencer) y en marketing personal. 
+Como te hemos comentado somos expertos en psicología persuasiva (cómo llamar la atención y convencer) y en marketing personal.
 
 Pues mira.
 
@@ -44,7 +46,7 @@ Hemos diseñado un método para optimizar perfiles de Tinder para conseguir gene
 
 Pongas como te pongas, Tinder es muy competitivo y hay que sobresalir para llamar la atención de las chicas.
 
-Hemos probado nuestro método en el mundo real con tios normales, del montón, como tú y como yo. 
+Hemos probado nuestro método en el mundo real con tios normales, del montón, como tú y como yo.
 
 Y hemos conseguido aumentar el número de citas con chicas de todos nuestros clientes.
 
@@ -66,11 +68,11 @@ Lo primero que necesitamos para ayudarte es que tomes lápiz y papel.
 
 Bien. ¿Ya lo tienes?
 
-Pues mira. 
+Pues mira.
 
 Primero tienes que hacer una lista con 5 cosas que odias y 5 cosas que te encantan, pero que sean verdad. Nada de clichés.
 
-Piensa un poco, si no cómo quieres llamar la atención y ligar más 
+Piensa un poco, si no cómo quieres llamar la atención y ligar más
 
 Por ejemplo,
 
@@ -96,9 +98,9 @@ Con esto tenemos material suficiente para diseñar varias descripciones tuyas to
 
 Te enviaremos tres descripciones totalmente personalizadas que escribiremos para ti.
 
-Así podrás probar y ver cual es la mejor, no te voy mentir, esto va de prueba y error. 
+Así podrás probar y ver cual es la mejor, no te voy mentir, esto va de prueba y error.
 
-No hay una varita mágica que haga que las chicas te den a LIKE. 
+No hay una varita mágica que haga que las chicas te den a LIKE.
 
 Pero lo que sí puedo decirte, es que probando varias descripciones con estructuras totalmente probadas psicológicamente para que llamen la atención de todas las chicas que te ven en Tinder cuando las lean.
 
@@ -116,7 +118,7 @@ Vale
 
 ✅ Proceso para probar fotos y descripciones para aumentar el número de LIKES en Tinder.
 
-✅ Cómo tienen que ser tus fotos de perfil. (Ropa, colores y situaciones) 
+✅ Cómo tienen que ser tus fotos de perfil. (Ropa, colores y situaciones)
 
 ✅ Consejos de apertura de conversaciones en Tinder.
 
@@ -140,7 +142,7 @@ Pero, espera…
 
 ¿Sabré que escribir contestar cuando me escriban las chicas en Tinder?
 
-Nuestro sistema de optimización de perfiles de Tinder te enseñará a mejorar tu perfil de Tinder con nuestra ayuda y un poco de trabajo de tu parte. 
+Nuestro sistema de optimización de perfiles de Tinder te enseñará a mejorar tu perfil de Tinder con nuestra ayuda y un poco de trabajo de tu parte.
 
 Con nuestra ayuda y un poco de trabajo de tu parte, el sistema de optimización de perfiles de Tinder te enseñará a mejorar tu perfil.
 
@@ -148,16 +150,16 @@ Para que consigas llamar más la atención y la atracción de las mujeres en Tin
 
 Lo que hay que hacer es practicar e implementar. Vivir y sentir.
 
-PD: Rellena el formulario y nos pondremos en contacto contigo en 24/48h. 
+PD: Rellena el formulario y nos pondremos en contacto contigo en 24/48h.
 
 CTA (formulario)
 
-Método de optimización de Perfiles de Tinder + 3 Descripciones personalizadas y persuasivas para aumentar la atención y atracción de las chicas en Tinder. 
+Método de optimización de Perfiles de Tinder + 3 Descripciones personalizadas y persuasivas para aumentar la atención y atracción de las chicas en Tinder.
 25€
 
 Preguntas sobre el servicio (Garantías)
 CTA (formulario)
 Prueba social (todavía no)
 CTA (formulario)
- 
+
 CTA (podríamos diseñar un formulario chulo chulo)
