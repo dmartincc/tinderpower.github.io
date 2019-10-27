@@ -209,6 +209,8 @@ GEM
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    pagemaster (2.0.1)
+      jekyll (~> 3.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
@@ -249,6 +251,7 @@ DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  pagemaster
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
