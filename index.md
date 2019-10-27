@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Paptti
 
 ## Cómo triunfar en Tinder y no parecer un subnormal.
 
