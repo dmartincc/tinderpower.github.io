@@ -162,3 +162,5 @@ Prueba social (todavía no)
 CTA (formulario)
 
 CTA (podríamos diseñar un formulario chulo chulo)
+
+{% include cta.html %}
