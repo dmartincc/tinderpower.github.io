@@ -1,3 +1,3 @@
 
 # Run project
-bundle exec jekyll svev
+bundle exec jekyll serve
