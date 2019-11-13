@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: landing
 ---
 
 
-## Cómo triunfar en Tinder y no parecer un subnormal.
 
-La forma más sencilla y eficaz de conseguir más matches y conversaciones en Tinder
 
 Hola,
 
-Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, tu éxito de ligar en Tinder.
+Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, ___tu éxito de ligar en Tinder.___
 
 Pero lo primero que debes saber de Cómo triunfar en Tinder es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder.
 
@@ -19,9 +17,11 @@ Si crees que no podemos ayudarte, lo mejor es que dejes de leer aquí mismo.
 
 Vale.
 
-Como bien sabrás, llamar la atención de una chica en Tinder es difícil, y más, si no somos muy agraciados físicamente o si nos hacemos caquita en los pantalones a la hora de hablar con ellas, ya sea en persona o en un chat.
+{% include LandingBloqueTexto.html %}
 
-Llamar la atención en Tinder y llevar la conversación a una cita presencial y  poder llegar a algo más íntimo. No es sencillo.
+Como bien sabrás, **llamar la atención** de una chica en Tinder es difícil, y más, si no somos muy agraciados físicamente o si nos hacemos caquita en los pantalones a la hora de hablar con ellas, ya sea en persona o en un chat.
+
+{% include LandingBloqueTexto2.html %}
 
 No te preocupesTranquilo , no eres el único.
 
