@@ -152,6 +152,8 @@ div.center {
 }
 .containerbloque {
   position: relative;
+  padding-bottom: 32px;
+  display: inline-flex;
 }
 
 .bloqueTexto2{
@@ -178,4 +180,40 @@ div.center {
 }
 .logo-cohete-dcha {
   position: absolute;
+  align-content: flex-end;
+}
+.tresPasos {
+  text-align: center;
+}
+.bottomCTA {
+  width: 513px;
+  height: 349px;
+  border-radius: 42px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  background-image: linear-gradient(62deg, #fc2d7a 12%, #fd4e69 55%, #fe7257 67%);
+}
+.textBottomCTA {
+  padding-top: 45px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.18px;
+  text-align: center;
+  color: #ffffff;
+}
+.precio  {
+  text-align: center;
+  width: 56px;
+  height: 42px;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -2.03px;
+  color: #fcf8f8;
 }
