@@ -2,9 +2,6 @@
 layout: landing
 ---
 
-
-
-
 Hola,
 
 Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, ___tu éxito de ligar en Tinder.___
