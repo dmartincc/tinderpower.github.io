@@ -4,7 +4,7 @@ layout: landing
 
 Hola,
 
-Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, ___tu éxito de ligar en Tinder.___
+Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, ***tu éxito de ligar en Tinder.***
 
 Pero lo primero que debes saber de Cómo triunfar en Tinder es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder.
 

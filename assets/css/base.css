@@ -1,14 +1,13 @@
 p {
-width: auto;
-height: auto;
-font-family: Roboto;
-font-size: 21px;
-font-weight: normal;
-font-stretch: normal;
-font-style: normal;
-letter-spacing: -1.18px;
-color: #292929;
-
+  width: auto;
+  height: auto;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: -1.18px;
+  color: #292929;
 }
 .botonHeader {
  width: 112px;
@@ -52,40 +51,6 @@ div.center {
   letter-spacing: -1.01px;
   color: #fc2d7a;
 }
-.button {
-  display: inline-block;
-  text-align: center;
-  vertical-align: middle;
-  padding: 12px 24px;
-  border: 1px solid #a12727;
-  border-radius: 8px;
-  background: #ff4a4a;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff4a4a), to(#992727));
-  background: -moz-linear-gradient(top, #ff4a4a, #992727);
-  background: linear-gradient(to bottom, #ff4a4a, #992727);
-  -webkit-box-shadow: #ff5959 0px 0px 40px 0px;
-  -moz-box-shadow: #ff5959 0px 0px 40px 0px;
-  box-shadow: #ff5959 0px 0px 40px 0px;
-  text-shadow: #591717 1px 1px 1px;
-  font: normal normal bold 20px arial;
-  color: #ffffff;
-  text-decoration: none;
-}
-.button:hover,
-.button:focus {
-  background: #ff5959;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ff5959), to(#b62f2f));
-  background: -moz-linear-gradient(top, #ff5959, #b62f2f);
-  background: linear-gradient(to bottom, #ff5959, #b62f2f);
-  color: #ffffff;
-  text-decoration: none;
-}
-.button:active {
-  background: #982727;
-  background: -webkit-gradient(linear, left top, left bottom, from(#982727), to(#982727));
-  background: -moz-linear-gradient(top, #982727, #982727);
-  background: linear-gradient(to bottom, #982727, #982727);
-}
 /*  dessde aquí Fer */
 .header.div {
   background-color: transparent !important;
@@ -97,7 +62,7 @@ div.center {
 .bannerCTA {
   margin-top: -90px;
   margin-bottom: 42px;
-  width: auto;
+  width: 100%;
   height: 390px;
   background-image: linear-gradient(75deg, #fc2d7a 12%, #fd4e69 57%, #fe7257 70%);
 
@@ -186,13 +151,17 @@ div.center {
 }
 .bottomCTA {
   width: 513px;
-  height: 349px;
+  height: 430px;
   border-radius: 42px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
   background-image: linear-gradient(62deg, #fc2d7a 12%, #fd4e69 55%, #fe7257 67%);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
 }
 .textBottomCTA {
-  padding-top: 45px;
+  padding-top: 0px;
   font-family: Roboto;
   font-size: 21px;
   font-weight: normal;
@@ -205,8 +174,6 @@ div.center {
 }
 .precio  {
   text-align: center;
-  width: 56px;
-  height: 42px;
   font-family: Roboto;
   font-size: 36px;
   font-weight: bold;
@@ -215,4 +182,34 @@ div.center {
   line-height: normal;
   letter-spacing: -2.03px;
   color: #fcf8f8;
+}
+.text2BottomCTA{
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.18px;
+  text-align: center;
+  color: #ffffff;
+  }
+.buttonBottomCTA {
+  width: 235px;
+  height: 42px;
+  border-radius: 17px;
+  background-color: #ffffff;
+  text-align: center;
+  }
+.buttonBottomCTA span {
+  width: 91px;
+  height: 24px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -1.18px;
+  color: #fc2f79;
 }
