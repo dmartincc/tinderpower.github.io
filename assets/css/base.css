@@ -63,12 +63,12 @@ div.center {
   margin-top: -90px;
   margin-bottom: 42px;
   width: 100%;
-  height: 390px;
+  height: 300px;
   background-image: linear-gradient(75deg, #fc2d7a 12%, #fd4e69 57%, #fe7257 70%);
 
 }
 .titleBannerCTA {
-  margin-top: 100px;
+  margin-top: 0px;
   font-family: Montserrat;
   font-size: 32px;
   font-weight: normal;
@@ -150,8 +150,8 @@ div.center {
   text-align: center;
 }
 .bottomCTA {
-  width: 513px;
-  height: 430px;
+  width: 100%;
+  height: 500px;
   border-radius: 42px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
   background-image: linear-gradient(62deg, #fc2d7a 12%, #fd4e69 55%, #fe7257 67%);
@@ -161,7 +161,6 @@ div.center {
   flex-direction: column;
 }
 .textBottomCTA {
-  padding-top: 0px;
   font-family: Roboto;
   font-size: 21px;
   font-weight: normal;
@@ -199,7 +198,7 @@ div.center {
   height: 42px;
   border-radius: 17px;
   background-color: #ffffff;
-  text-align: center;
+  align-items: center;
   }
 .buttonBottomCTA span {
   width: 91px;
