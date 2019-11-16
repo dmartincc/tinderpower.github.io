@@ -125,5 +125,3 @@ Pero, espera…
 Con nuestra ayuda y un poco de esfuerzo de tu parte, el sistema de optimización de perfiles de Tinder te enseñará a mejorar tu perfil para que consigas llamar más la atención y la atracción de las mujeres en Tinder.
 
 Lo que hay que hacer es practicar e implementar. Vivir y sentir.
-
-{% include bottomCTA.html %}
