@@ -9,6 +9,7 @@ p {
   font-style: normal;
   letter-spacing: -1.18px;
   color: #292929;
+  padding-top: 16px;
 }
 .botonHeader {
  width: 112px;
@@ -118,7 +119,6 @@ div.center {
 }
 .containerbloque {
   position: relative;
-  padding-bottom: 32px;
   display: inline-flex;
 }
 
@@ -194,7 +194,7 @@ div.center {
   font-style: normal;
   line-height: normal;
   letter-spacing: -1.18px;
-  text-align: center;
+  text-align: left;
   color: #ffffff;
   }
 .buttonBottomCTA {
