@@ -1,26 +1,14 @@
 <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+  <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
-      <div class="modal-title">
-        <h5 class="modal-title" id="exampleModalCenterTitle">TinderPower</h5>
-        <button type="button" class="close p-3" data-dismiss="modal" aria-label="Close">
+      <div class="container">
+
+        <button type="button" class="close m-2 " data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
-      <div class="modal-body">
-        <div class="container-fluid bottomCTA py-2 rounded">
-            <div class="jumbotron pb-n4 " style="background:transparent !important; padding: 0rem !important; max-width: 550px;">
-              <div class="form-group">
-                <label for="exampleInputEmail1" class=" text2BottomCTA py-3">Déjanos tu email y nos pondremos en contacto contigo en 24/48h</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
-                  <div class="modal-footer">
-                    <div class="col py-3 ml-n3">
-                      <button type="submit" class="buttonBottomCTA"><span>Enviar email</span></button>
-                    </div>
-                  </div>
-              </div>
-            </div>
-        </div>
+      <div class="container-fluid my-auto bg-light">
+      {% include bottomCTA.html %}
       </div>
 
     </div>
