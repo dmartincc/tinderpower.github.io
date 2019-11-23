@@ -231,7 +231,7 @@ div.center {
   color: #ffffff;
 }
 .text3BottomCTA {
-  width: 288px;
+width: 288px;
 height: 39px;
 opacity: 0.76;
 font-family: Roboto;
@@ -241,7 +241,7 @@ font-stretch: normal;
 font-style: normal;
 line-height: normal;
 letter-spacing: 0.07px;
-color: #292929;
+color: #010101;
 
 }
 .bgfooter {
