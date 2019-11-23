@@ -11,8 +11,8 @@ p {
   color: #292929;
   padding-top: 16px;
 }
-.bgModal {
-  background-image: linear-gradient(75deg, #fc2d7a 12%, #fd4e69 57%, #fe7257 70%);
+.imgTamaño {
+  max-width: 100%;
 }
 .botonHeader {
  margin-top: 30px;
@@ -156,13 +156,24 @@ div.center {
 .tresPasos {
   text-align: center;
 }
-.bottomCTA {
+/*.bottomCTA {
   width: 100%;
   height: auto;
   max-width: 550px;
   border-radius: 42px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
   background-image: linear-gradient(62deg, #fc2d7a 12%, #fd4e69 55%, #fe7257 67%);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}*/
+.bottomCTA {
+  width: 100%;
+  height: auto;
+  margin-bottom: 120px;
+  max-width: 550px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
   display: flex;
   justify-content: center;
   align-content: center;
@@ -192,31 +203,41 @@ div.center {
 }
 .text2BottomCTA{
   font-family: Roboto;
-  font-size: 21px;
+  font-size: 14px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
-  letter-spacing: -1.18px;
+  letter-spacing: 0.09px;
+  color: #292929;
   text-align: left;
-  color: #ffffff;
   }
 .buttonBottomCTA {
-  width: auto;
-  height: 42px;
-  border-radius: 17px;
-  background-color: #ffffff;
-  align-items: center;
+  width: 200px;
+  height: 40px;
+  border-radius: 16.5px;
+  background-image: linear-gradient(84deg, #fc2d7a 12%, #fd4e69 58%, #fe7257 71%);
   }
 .buttonBottomCTA span {
-  width: auto;
-  height: 24px;
+  width: 90px;
+  height: 21px;
   font-family: Roboto;
-  font-size: 21px;
-  font-weight: bold;
+  font-size: 18px;
+  font-weight: normal;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
-  letter-spacing: -1.18px;
-  color: #fc2f79;
+  letter-spacing: 0.12px;
+  color: #ffffff;
+
+}
+.textoFooter {
+text-decoration: none;
+font-family: Roboto;
+font-size: 14px;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: 0.09px;
+color: #ffffff;
 }
