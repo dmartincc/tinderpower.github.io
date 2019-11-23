@@ -229,7 +229,9 @@ div.center {
   line-height: normal;
   letter-spacing: 0.12px;
   color: #ffffff;
-
+}
+.bgfooter {
+  background-image: linear-gradient(70deg, #fc2d7a 12%, #fd4e69 56%, #fe7257 69%);
 }
 .textoFooter {
 text-decoration: none;
