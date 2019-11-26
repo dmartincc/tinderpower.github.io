@@ -19,46 +19,49 @@ p {
   height: 228px;
 }
 .botonHeader {
- margin-top: 30px;
- width: 112px;
- height: 33px;
- border-radius: 19px;
- border: solid 0.5px #f82901;
- background-color: #ffffff;
+  width: 140px;
+  height: 40px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  background-image: linear-gradient(80deg, #fc2d7a 12%, #fd4e69 75%, #fe7257 96%);
 }
 .botonHeader span {
- width: 60px;
+  width: 99px;
  height: 16px;
  font-family: Roboto;
  font-size: 14px;
- font-weight: normal;
+ font-weight: bold;
  font-stretch: normal;
  font-style: normal;
  line-height: normal;
  letter-spacing: -0.79px;
- color: #f82901;
+ color: #ffffff;
+
 }
 .botonCTA{
-  width: 200px;
-  height: 39px;
-  border-radius: 19px;
-  background-color: #ffffff;
+  max-width: 288px;
+  width: 100%;
+  height: 43px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  background-image: linear-gradient(84deg, #fc2d7a 12%, #fd4e69 76%, #fe7257 96%);
 }
 div.center {
   text-align: center;
   padding-top: 13px;
 }
 .botonCTA span {
-  width: 77px;
-  height: 21px;
+  width: auto;
+  height: 19px;
   font-family: Roboto;
-  font-size: 18px;
-  font-weight: normal;
+  font-size: 16px;
+  font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
-  letter-spacing: -1.01px;
-  color: #fc2d7a;
+  letter-spacing: -0.9px;
+  color: #ffffff;
+
 }
 /*  dessde aquí Fer */
 .header.div {
@@ -74,20 +77,19 @@ div.center {
   margin-bottom: 42px;
   width: 100%;
   height: auto;
-  background-image: linear-gradient(75deg, #fc2d7a 12%, #fd4e69 57%, #fe7257 70%);
+  background-color: #23e8f2;
 
 }
 .titleBannerCTA {
   margin-top: 0px;
   font-family: Montserrat;
-  font-size: 32px;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: -0.56px;
   text-align: center;
-  color: #ffffff;
+  color: #292929;
 }
 .textBannerCTA {
 
@@ -99,7 +101,7 @@ div.center {
   font-style: normal;
   line-height: normal;
   letter-spacing: -1.47px;
-  color: #ffffff;
+  color: #292929;
   text-align: center;
 }
 .logo-tinder-izq {
@@ -217,21 +219,21 @@ div.center {
   text-align: left;
   }
 .buttonBottomCTA {
-  width: 200px;
-  height: 40px;
-  border-radius: 16.5px;
-  background-image: linear-gradient(84deg, #fc2d7a 12%, #fd4e69 58%, #fe7257 71%);
+  width: 288px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+  background-image: linear-gradient(84deg, #fc2d7a 12%, #fd4e69 76%, #fe7257 96%);
   }
 .buttonBottomCTA span {
-  width: 90px;
-  height: 21px;
+  width: 208px;
+  height: 19px;
   font-family: Roboto;
-  font-size: 18px;
-  font-weight: normal;
+  font-size: 16px;
+  font-weight: bold;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
-  letter-spacing: 0.12px;
+  letter-spacing: -0.9px;
   color: #ffffff;
 }
 .text3BottomCTA {
@@ -250,7 +252,7 @@ color: #010101;
 
 }
 .bgfooter {
-  background-image: linear-gradient(70deg, #fc2d7a 12%, #fd4e69 56%, #fe7257 69%);
+  background-color: #23e8f2;
 }
 .textoFooter {
 text-decoration: none;
@@ -260,5 +262,5 @@ font-stretch: normal;
 font-style: normal;
 line-height: normal;
 letter-spacing: 0.09px;
-color: #ffffff;
+ color: #292929;
 }
