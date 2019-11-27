@@ -19,6 +19,7 @@ p {
   height: 228px;
 }
 .botonHeader {
+  border-style: none;
   width: 140px;
   height: 40px;
   border-radius: 10px;
@@ -26,7 +27,7 @@ p {
   background-image: linear-gradient(80deg, #fc2d7a 12%, #fd4e69 75%, #fe7257 96%);
 }
 .botonHeader span {
-  width: 99px;
+ width: 99px;
  height: 16px;
  font-family: Roboto;
  font-size: 14px;
@@ -39,6 +40,7 @@ p {
 
 }
 .botonCTA{
+  border-style: none;
   max-width: 288px;
   width: 100%;
   height: 43px;
@@ -175,6 +177,7 @@ div.center {
   flex-direction: column;
 }*/
 .bottomCTA {
+  border-style: none;
   width: 100%;
   height: auto;
   margin-bottom: 90px;
@@ -219,6 +222,7 @@ div.center {
   text-align: left;
   }
 .buttonBottomCTA {
+  border-style: none;
   width: 288px;
   border-radius: 10px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
