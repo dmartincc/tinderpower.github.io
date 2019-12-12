@@ -2,4 +2,35 @@
 layout: default
 ---
 
-{% include head.html %} {% include header.html %}
+{% include header.html %}
+
+<body class="background container">
+  <div class="container-fluid ">
+    <div class="row">
+      <div class="col-12-fluid mx-auto padding">
+        <h1 class="mx-auto text-center">¡ENHORABUENA!</h1>
+        <p class="redText mx-auto pb-3">Hemos recibido tu email.</p>
+        <p class=" p1 mx-auto mt-4">
+          En 24/48 horas te escribiremos y te contaré como vas a mejorar tu
+          perfil en Tinder.
+        </p>
+
+        <p class=" p1 mx-auto mt-4">
+          Si lo prefieres puedes ir al formulario directamente y crear ya tu
+          nueva descripción.
+        </p>
+        <div class="center">
+          <button
+            type="button"
+            name="button"
+            class="botonFormulario d-xl-block d-lg-block mx-auto my-4"
+            data-toggle="modal"
+            data-target="#exampleModalCenter"
+          >
+            <span>Ir a Formulario</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
