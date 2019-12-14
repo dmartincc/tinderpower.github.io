@@ -270,14 +270,11 @@ div.center {
   background-color: #23e8f2;
 }
 .padding {
-  margin-top: 193px;
+  margin-top: 133px;
 }
 .enhorabuena {
-  width: auto;
-  height: 52px;
-  margin-top: 193px;
   font-family: Montserrat;
-  font-size: auto;
+  font-size: 2rem;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
@@ -289,7 +286,7 @@ div.center {
   width: auto;
   height: 38px;
   font-family: Roboto;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -299,7 +296,7 @@ div.center {
   color: #fc2d7a;
 }
 .p1 {
-  width: auto;
+  max-width: 631px;
   height: 76px;
   font-family: Roboto;
   font-size: 1.3rem;
