@@ -300,6 +300,7 @@ div.center {
 }
 .p1 {
   max-width: 631px;
+  width: auto;
   height: 76px;
   font-family: Roboto;
   font-size: 1.3rem;
