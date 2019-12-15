@@ -248,7 +248,7 @@ div.center {
 }
 .text3BottomCTA {
   margin-top: -18px;
-  width: 288px;
+  width: auto;
   height: 39px;
   opacity: 0.76;
   font-family: Roboto;
