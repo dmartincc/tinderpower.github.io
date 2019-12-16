@@ -42,7 +42,7 @@ Hemos diseñado un método para optimizar perfiles de Tinder para conseguir gene
 
 Hemos probado nuestro método en el mundo real con tios normales, del montón, como tú y como yo, y hemos conseguido aumentar el número de citas con chicas de todos nuestros clientes.
 
-Y han pasado de tener ***un perfil en Tinder que no llama nada la atención*** y estar todo el día dándole a la derecha. A no tener tiempo por estar contestando a los chats de las chicas en Tinder y tener más de una cita a la semana.
+Y han pasado de tener ***un perfil en Tinder que no llama nada la atención*** y estar todo el día dándole a la derecha, a no tener tiempo por estar contestando a los chats de las chicas en Tinder y tener más de una cita a la semana.
 
 Bien.
 

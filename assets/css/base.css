@@ -73,6 +73,7 @@ div.center {
   line-height: normal;
   letter-spacing: -0.9px;
   color: #ffffff;
+  text-decoration: none !important;
 }
 /*  dessde aquí Fer */
 .header.div {
@@ -353,6 +354,7 @@ div.center {
 }
 html {
   font-size: 1rem;
+   scroll-behavior: smooth;
 }
 
 @include media-breakpoint-up(sm) {
