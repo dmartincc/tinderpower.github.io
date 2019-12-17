@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
   scrollTo();
 })();
 
@@ -28,3 +28,4 @@ function scrollAnchors(e, respond = null) {
     }
   }, 100);
 }
+console.log("probando");*/
