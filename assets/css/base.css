@@ -10,6 +10,9 @@ p {
   color: #292929;
   padding-top: 16px;
 }
+.parallax {
+  transition: transform 1s cubic-bezier(0, 1, 0.5, 1);
+}
 .imgTamaño {
   max-width: 100%;
 }
