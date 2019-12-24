@@ -14,7 +14,7 @@ Si crees que no podemos ayudarte, lo mejor es que dejes de leer aquí mismo.
 
 Vale.
 
-Como bien sabrás, **llamar la atención** de una chica en Tinder es difícil, y más, si no somos muy agraciados físicamente o si nos pueden los nervios a la hora de hablar con ellas, ya sea en persona o en un chat.
+Como bien sabrás, **llamar la atención** de una chica en Tinder es difícil, y más, si no somos muy agraciados físicamente o si nos hacemos caquita en los pantalones a la hora de hablar con ellas, ya sea en persona o en un chat.
 
 {% include LandingBloqueTexto2.html %}
 
@@ -40,7 +40,7 @@ Hemos diseñado un método para optimizar perfiles de Tinder para conseguir gene
 
 Hemos probado nuestro método en el mundo real con tios normales, del montón, como tú y como yo, y hemos conseguido aumentar el número de citas con chicas de todos nuestros clientes.
 
-Y han pasado de tener **_un perfil en Tinder que no llama nada la atención_** a no tener tiempo para contestar a los chats de las chicas en Tinder y tener más de una cita a la semana.
+Y han pasado de tener **_un perfil en Tinder que no llama nada la atención_** y estar todo el día dándole a la derecha a no tener tiempo para contestar a los chats de las chicas en Tinder y tener más de una cita a la semana.
 
 Bien.
 
