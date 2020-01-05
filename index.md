@@ -6,7 +6,7 @@ Hola,
 
 Te voy a contar algo que podría cambiar el rumbo de tu vida sentimental y aumentar, considerablemente, **_tu éxito de ligar en Tinder._**
 
-Pero lo primero que debes saber de Cómo triunfar en Tinder es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder.
+Pero lo primero que debes saber de tinderpower.com es que somos un estudio online de psicología persuasiva, imagen personal y optimización de perfiles de Tinder.
 
 {% include LandingBloqueTexto.html %}
 
@@ -20,25 +20,24 @@ Como bien sabrás, **llamar la atención** de una chica en Tinder es difícil, y
 
 Tranquilo, no eres el único.
 
-Llamar la atención es necesario pero no suficiente; Es un primer paso con el que habrás ganado mucho.
+Llamar la atención está bien pero no es suficiente; Es un primer paso con el que habrás ganado mucho.
 
 Después de llamar su atención necesitas generar atracción, lo conseguirás hablando con la chica en cuestión en el chat.
 
 Te voy a ser sincero, de media lleva un par de días o tres de conversaciones para conseguir una cita física.
 
-Pues bien,
 
-Si crees que no sabes cómo escribir una descripción de tí, que llame la atención de las chicas para que te den **_MATCH_** y por esto no consigues citas.
+¿Crees que no sabes cómo escribir una descripción de tí, que llame la atención de las chicas para que te den **_MATCH_** y por esto no consigues citas?
+
+Pues bien,
 
 Como te hemos comentado somos expertos en psicología persuasiva (cómo llamar la atención y convencer) y en marketing personal.
 
-Pues mira.
-
-Hemos diseñado un método para optimizar perfiles de Tinder para conseguir generar más atención y atracción en las chicas en Tinder.
+Hemos diseñado un método que optimiza perfiles de Tinder para conseguir generar más atención y atracción en las chicas.
 
 {% include LandingBloqueTexto3.html %}
 
-Hemos probado nuestro método en el mundo real con tios normales, del montón, como tú y como yo, y hemos conseguido aumentar el número de citas con chicas de todos nuestros clientes.
+Hemos probado nuestro método en el mundo real con tíos normales, del montón, como tú y como yo, y hemos conseguido aumentar el número de citas de todos nuestros clientes.
 
 Y han pasado de tener **_un perfil en Tinder que no llama nada la atención_** y estar todo el día dándole a la derecha a no tener tiempo para contestar a los chats de las chicas en Tinder y tener más de una cita a la semana.
 
@@ -50,7 +49,7 @@ Te voy contar como puedes tener acceso a nuestro método y cómo podemos ayudart
 
 Me explico.
 
-Hemos creado un servicio en tres pasos muy muy sencillos donde podremos ayudarte a optimizar tu perfil de Tinder para que tengas más **_MATCHES._**
+Hemos creado un servicio en tres pasos muy muy sencillos donde podremos ayudarte a optimizar tu perfil de Tinder para que tengas más **_MATCHES_**.
 
 **_Primer paso._**
 
@@ -82,11 +81,11 @@ Con esto tenemos material suficiente para diseñar varias **_descripciones tuyas
 
 **_Tercer paso._**
 
-Te enviaremos tres descripciones totalmente personalizadas que escribiremos para ti. Así podrás probar y ver cual es la mejor, no te voy mentir, esto va de prueba y error.
+Te enviaremos tres descripciones totalmente personalizadas que escribiremos para ti. Así podrás probar y ver cual es la mejor, no te voy a mentir, esto va de prueba y error.
 
 No hay una varita mágica que haga que las chicas te den a LIKE.
 
-Lo que sí puedo decirte, es que utilizando varias descripciones con estructuras totalmente probadas psicológicamente podrás **_optimizar tu perfil_**, ver cual es él que más llama la atención y con cual consigues más conversaciones.
+Lo que sí puedo decirte, es que utilizando varias descripciones con estructuras totalmente probadas psicológicamente podrás **_optimizar tu perfil_**, ver cual llama más la atención y con cual consigues más conversaciones.
 
 **_¿Qué consigo con el servicio de optimización de perfiles de Tinder?_**
 
@@ -118,7 +117,7 @@ Y está al alcance de cualquiera, incluso de alguien que no es muy social o no s
 
 Pero, espera…
 
-**_¿Sabré que contestar cuando me escriban las chicas en Tinder?_**
+{% include sabreQueContestar.html %}
 
 Con nuestra ayuda y un poco de esfuerzo de tu parte, el sistema de optimización de perfiles de Tinder te enseñará a mejorar tu perfil para que consigas llamar más la atención y la atracción de las mujeres en Tinder.
 
