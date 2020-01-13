@@ -355,6 +355,42 @@ div.center {
   letter-spacing: 0.09px;
   color: #292929;
 }
+
+/* Política de cookies*/
+#overbox3 {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 999999;
+  display: block;
+}
+#infobox3 {
+  margin: auto;
+  position: relative;
+  top: 0px;
+  height: 70px;
+  width: 100%;
+  text-align: center;
+  background-image: linear-gradient(
+    84deg,
+    #fc2d7a 12%,
+    #fd4e69 76%,
+    #fe7257 96%
+  );
+}
+#infobox3 p {
+  line-height: 58px;
+  font-size: 16px;
+  text-align: center;
+  color: white;
+}
+#infobox3 p a {
+  margin-right: 5px;
+  text-decoration: underline;
+}
+/* Fin politica de cookies*/
+
 html {
   font-size: 1rem;
   scroll-behavior: smooth;
